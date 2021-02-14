@@ -1,0 +1,189 @@
+
+
+/* Responsive css */
+
+@media only screen and (max-width: 1199px) {
+.footer ul li {
+	padding: 0 14px 0 0px;
+}
+.debt_relief .debt_form {
+	max-width: 100%;
+	width: auto;
+}
+.value ul li {
+	
+	padding: 0px 40px 0 40px;
+}	
+}
+@media only screen and (max-width: 991px){
+	
+.value ul li {
+	padding: 0px 23px 0 25px;
+	font-size:14px;
+}	
+	
+	
+}
+ @media only screen and (min-width: 768px) and (max-width: 991px) {
+.overcome .overcome_sec {
+	padding: 32px 20px;
+}
+.step h1 {
+	font-size: 30px;
+}
+.step h3 {
+	font-size: 20px;
+}
+.footer ul li {
+	display: block;
+	padding: 0 26px 10px 0px;
+}
+.payment_day ul li {
+	width: 135px;
+}
+.footer ul {
+	text-align: center;
+}
+.debt_relief .debt_form h2 {
+	font-size: 22px;
+}
+.debt_relief .debt h1 {
+	font-size: 38px;
+}
+.step h3 {
+	padding: 0;
+}
+}
+ @media only screen and (max-width: 767px) {
+.step h3 {
+	padding: 0;
+}
+.overcome h1 {
+	font-size: 20px;
+	padding-bottom: 8px;
+	text-align: center;
+	line-height: 30px;
+}
+.overcome {
+	padding: 4px 0 0;
+}
+.overcome .overcome_sec {
+	border-bottom: 2px solid #efefef;
+}
+.no-padd {
+	padding: 0;
+}
+.step {
+	padding: 19px 0 57px;
+}
+.step h1 {
+	padding-bottom: 36px;
+	font-size: 25px;
+}
+.qualify a {
+	font-size: 15px;
+	padding: 15px 40px 15px 40px;
+}
+.footer ul li {
+	padding: 0px 26px 19px 0px;
+}
+.footer ul {
+	text-align: center;
+}
+.footer p {
+	font-size: 13px;
+	padding-top: 15px;
+	text-align: center;
+	padding-bottom: 3px;
+}
+.footer {
+	padding: 0 0 20px;
+}
+.submission h3 {
+	font-size: 20px;
+	line-height: 31px;
+}
+.footer_img {
+	text-align: center;
+}
+.debt_form {
+	display: none;
+}
+.phone {
+	display: block !important;
+	margin-top: 28px;
+}
+.debt_relief .debt ul li {
+	font-size: 13px;
+}
+.submission p {
+	font-size: 17px;
+	font-weight: 300;
+}
+.range {
+	margin-top: 20px;
+	text-align: center;
+}
+.questions {
+	padding: 2px 0 29px;
+}
+.debt_amount .step_sec input[type="submit"] {
+	padding: 15px 68px;
+}
+.debt_amount .step_sec a {
+	padding: 15px 68px;
+}
+.debt_amount h3 {
+	font-size: 19px;
+}
+.debt_amount .step_sec {
+	margin-top: 31px;
+	margin-bottom: 33px;
+}
+.questions .question_content h1 {
+	line-height: 41px;
+	font-size: 30px;
+}
+.debt_amount {
+	display: none;
+}
+
+.debt_phone {
+	display: block;
+}
+}
+
+@media only screen and (max-width:639px){
+	
+.payment_day ul li {
+	width: 130px;
+	
+}	
+.value ul li {
+	
+	padding: 0px 40px 0 40px;
+}	
+}
+
+ @media only screen and (max-width: 479px) {
+.payment_day ul li {
+	width: 100% !important;
+	padding: 1px 20px !important;
+}
+.payment_select .form-control {
+	width: 80%;
+	height: 52px;
+	
+}
+.value ul li {
+	font-size: 10px;
+	padding: 0px 8px 0 5px;
+}
+
+#secure {
+	margin: 30px 0 0 37px;
+	width: 80%;
+
+}
+
+}
